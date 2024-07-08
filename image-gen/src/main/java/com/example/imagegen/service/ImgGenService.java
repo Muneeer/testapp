@@ -1,8 +1,8 @@
 package com.example.imagegen.service;
 
+import com.example.common.entity.ImageGenETO;
 import org.springframework.stereotype.Service;
 
-import com.example.common.entity.ImageGenETO;
 
 @Service
 public class ImgGenService {
